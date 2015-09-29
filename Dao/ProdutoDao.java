@@ -7,7 +7,7 @@ package Dao;
 
 import Connect.ConnectFactory;
 import java.util.ArrayList;
-import java.util.Collection;
+import java.util.Collection; // teste
 import java.util.Iterator;
 import java.util.LinkedList;
 import java.util.List;
